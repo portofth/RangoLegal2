@@ -1,0 +1,34 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Rango Legal
+authors:
+  - family-names: Tinoco
+    given-names: Arthur Braga de Campos
+  - family-names: Cury
+    given-names: Davi Wenzel
+  - family-names: Oliveira
+    given-names: Diogo Patrick Cesário de
+  - family-names: Dias
+    given-names: Fernando Theodoro Porto de Paula
+  - family-names: Nascimento
+    given-names: Mateus Evangelista do
+  - family-names: Jardim
+    given-names: Rafael Nascimento
+  - family-names: Rodrigues
+    given-names: Cristiano Neves
+    name-suffix: Professor
+    affiliation: PUC Minas
+  - family-names: Rivero
+    given-names: Ilo Amy Saldanha
+    name-suffix: Professor
+    affiliation: PUC Minas
+  - family-names: Costa
+    given-names: Pedro Henrique Ramos
+    name-suffix: Professor
+    affiliation: PUC Minas
+keywords:
+  - Rango-Legal
+repository-code: https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-ti4-2026-1-g05-rangolegal
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-07-14
